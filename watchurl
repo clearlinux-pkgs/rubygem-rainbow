@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-03-01 17:06:03.588080
+# {'<3.0', '>=1.99.1'}
+watchurl=https://rubygems.org/gems/rainbow/versions/([0-2]\.[0-9]{1,2}(\.[0-9]{1,2})?)
